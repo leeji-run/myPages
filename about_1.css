@@ -1,0 +1,100 @@
+
+nav{
+    text-align: center;
+    width: 100%;
+    top: 0;
+    margin: 0; padding: 0;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+}
+#ul li.nav-item{
+    list-style:none;
+  }
+#nav ul{
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:absolute;
+   right:50px;
+   top:30px;
+  }
+.magazine1{
+    background-color:yellow;
+    color: red;
+    font-weight:bold;
+    font-size:50px;
+    font-family:'Bangers',cursive;
+}
+.magazine2{
+  
+    color:orchid;
+    font-family:'modak',cursive;
+    font-size:100px;
+}
+.comic{
+    background-color:green;
+    color:ivory;
+    font-weight:bold;
+    font-size: 50px;
+}
+.deep{
+    color:red;
+    font-family: 'Anton', sans-serif;
+    font-size:40x;
+}
+.simple{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.nav-container{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    margin:0;
+    padding:0;
+    background:goldenrod;
+    list-style-type:none;
+}
+.nav-item{
+    padding:30px;
+    cursor:pointer;
+}
+.nav-item a{
+    text-align:center;
+    text-decoration: none;
+    color:white;
+    font-size:50px;
+    font-family: 'Black Han Sans', sans-serif;
+}
+#title{
+    text-align: center;
+    margin-top:10%;
+}
+#One.row-1{
+    text-align: right;
+}
+
+#two{
+    background:goldenrod;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    color:white;
+}
+footer{
+    text-align: center;
+}
+#row-text{
+    text-align: left;
+}
+#row-text.h2{
+    color:red;
+}
+
+#row-pic{
+    text-align: center;
+}
+#row-text-2{
+    text-align: right;
+}
+
